@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and design
 - 🌱 I’m currently learning Undergraduate course
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me kavisna@02@gmail.com
+- 📫 How to reach me kavisna02@gmail.com
 
 <!---
 kavisnask/kavisnask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
